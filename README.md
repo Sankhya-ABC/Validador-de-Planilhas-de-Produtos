@@ -15,5 +15,13 @@ Este é um aplicativo desktop desenvolvido em Python para validar planilhas de p
 - Python 3.8 ou superior
 - Bibliotecas Python:
 ```python
-    pip install pandas, tkinter, pillow, openpyxl
+pip install pandas, tkinter, pillow, openpyxl
+```
+
+## Como Usar
+### Execução do Programa
+1. Clone o repositório ou faça download dos arquivos
+2. Execute o arquivo principal:
+```python
+python validador_com_interface.py
 ```
